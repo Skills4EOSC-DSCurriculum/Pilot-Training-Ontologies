@@ -56,7 +56,7 @@ hide:
 
 ## Target audience: target audience description
 
-## Expertise Level / Skill Level: Beginner / Intermediate / Advanced
+## Expertise Level / Skill Level: Beginner
 
 ## Primary Language: English
 
