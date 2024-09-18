@@ -4,6 +4,10 @@
 
 In this repository the materials for an introductionary workshop about ontologies will be created.
 
+## Status
+
+**This repository is currently work in progress, the contents are still being developed.**
+
 ## FAIR-by-Design Methodology - Templates Repository
 
 This course was created using the FAIR-by-Design Methodology template.
