@@ -1,4 +1,4 @@
-site_name: FAIR-by-Design Template Repository
+site_name: "Introduction to ontologies"
 docs_dir: resources
 theme:
   name: material
@@ -43,10 +43,10 @@ citation:
   cff-version: 1.2.0
   message: "If you use these learning materials, please cite it as below."
   authors:
-    - family-names: Surname
-      given-names: First_Name
-      orcid: https://orcid.org/1234-5678-9101-1121
-  title: "Training Name"
+    - family-names: Aguilar Gómez
+      given-names: Fernando
+      orcid: https://orcid.org/0000-0001-9462-4831
+  title: "Introduction to ontologies"
   abstract: "Training description"
   version: 1.0.0
   doi: 10.5072/zenodo.1234567
@@ -55,9 +55,10 @@ citation:
   license-url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
   type: generic
   keywords:
-    - thefirstkeyword
-    - thesecondkeyword
-    - "a third keyword"
+    - ontologies
+    - linked data
+    - knowledge graph
+    - RDM
   repository: "https://github.com/citation-file-format/my-research-software"
 signposting_linkset: https://raw.githubusercontent.com/Task4-1-Skills4EOSC/Pilot-Training-Ontologies/main/linkset.json # do not update manually
 signposting_default_profile: '' # update with an URL towards the profile used for the Markdown pages (optional)

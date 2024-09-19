@@ -1,29 +1,29 @@
 ---
 # RDA learning materials metadata minimal set
-title: "The human readable name of the learning resource."
+title: "Introduction to ontologies"
 author: 
-    - Name of entity(ies) 
-    - authoring the resource
+    - Fernando Aguilar Gómez
 tags: 
-    - Keywords
-    - Tags 
-    - Resource Description
+    - ontologies
+    - linked data
+    - knowledge graph
+    - RDM
 
 abstract: "A brief synopsis about or description of the learning resource."
-primaryLanguage: "two letter code, Language in which the resource was originally published or made available."
+primaryLanguage: "en"
 versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
 license: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
 urlToResource: "https://doi.org/10.5072/zenodo.1234567"
 resourceURLType: "URL"
-targetGroup: "Principle users(s) for which the resource was designed."
+targetGroup: "Everyone interested in Research Data Management (such as knowledge graphs, linked data, or related areas)"
 learningResourceType: "The predominant type or kind that characterizes the learning resource."
 learningOutcome: 
     - Descriptions of what knowledge, 
     - skills or 
     - abilities 
     - students should acquire on completion of the resource.
-accessCost: "Choice stating whether or not there is a fee for use of the resource (CV = Y/N/Maybe with recommendation that further explanation of “Maybe” goes in the Description field"
-expertiseLevel: "Target skill level in the topic being taught; example values include: beginner, intermediate, advanced"
+accessCost: "N"
+expertiseLevel: "beginner"
 # template is a reserved keyword related to publishing of the Git book itself and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
 template: signposting.html
 # hide is a reserved keyword related to the layout of the landing page and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
@@ -33,7 +33,7 @@ hide:
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Title of training 
+# Introduction to ontologies
 
 {!RELEASE_NOTES.md!}
 
@@ -54,7 +54,7 @@ hide:
 - what is the main goal/purpose of this training
 - short training description
 
-## Target audience: target audience description
+## Target audience: Everyone interested in research data management (such as knowledge graphs, linked data, or related areas)
 
 ## Expertise Level / Skill Level: Beginner
 
