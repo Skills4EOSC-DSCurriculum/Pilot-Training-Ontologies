@@ -1,19 +1,20 @@
 cff-version: 1.2.0
 message: "If you use these learning materials, please cite it as below."
 authors:
-  - family-names: Surname
-    given-names: First_Name
-    orcid: https://orcid.org/1234-5678-9101-1121
-    affiliation: Organization
-title: "Training Name"
+  - family-names: Aguilar Gómez
+    given-names: Fernando
+    orcid: https://orcid.org/0000-0001-9462-4831
+    affiliation: Instituto de Física de Cantabria
+title: "Introduction to ontologies"
 abstract: "Training description"
 version: v0.1.0
 doi: 10.5070/zenodo.123
 date-released: "2024-09-18"
-license: CC-BY-4.0
-license-url: "https://creativecommons.org/licenses/by/4.0/legalcode.txt"
+license: CC-BY-SA-4.0
+license-url: "https://creativecommons.org/licenses/by-sa/4.0/legalcode.txt"
 keywords:
-  - "thefirstkeyword"
-  - "thesecondkeyword"
-  - "a third keyword"
-repository: "https://github.com/citation-file-format/my-research-software"
+  - "ontologies"
+  - "linked data"
+  - "knowledge graph"
+  - "RDM"
+repository: "https://github.com/Task4-1-Skills4EOSC/Pilot-Training-Ontologies"
