@@ -11,8 +11,8 @@ tags:
 
 abstract: "A brief synopsis about or description of the learning resource."
 primaryLanguage: "two letter code, Language in which the resource was originally published or made available."
-license: "A license document that applies to this content, typically indicated by URL"
 versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
+license: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
 urlToResource: "https://doi.org/10.5072/zenodo.1234567"
 resourceURLType: "URL"
 targetGroup: "Principle users(s) for which the resource was designed."
@@ -114,7 +114,7 @@ Keywords or tags used to describe the training.
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International License</a>.
 
 ## DOI
 

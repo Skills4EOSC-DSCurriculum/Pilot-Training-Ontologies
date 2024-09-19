@@ -51,8 +51,8 @@ citation:
   version: 1.0.0
   doi: 10.5072/zenodo.1234567
   date-released: 2023-10-17
-  license: CC-BY-4.0
-  license-url: "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
+  license: CC-BY-SA-4.0
+  license-url: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
   type: generic
   keywords:
     - thefirstkeyword
