@@ -61,7 +61,7 @@ citation:
     - "knowledge graph"
     - "RDM"
   repository: "https://github.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies"
-signposting_linkset: https://raw.githubusercontent.com/Task4-1-Skills4EOSC/Pilot-Training-Ontologies/main/linkset.json # do not update manually
+signposting_linkset: https://raw.githubusercontent.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/main/linkset.json # do not update manually
 signposting_default_profile: '' # update with an URL towards the profile used for the Markdown pages (optional)
 # signposting_gitbook_url: https://gitbook.example.com # leave commented (prefixed with `#`) if using GitHub Pages with the default domain.
 signposting_exclusions:
