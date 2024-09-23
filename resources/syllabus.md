@@ -105,12 +105,11 @@ Keywords or tags used to describe the training.
 
 # Trainer(s)
 
-- List of people involved in delivering the training
-- format: Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), Name Surname [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0123-4561-8999-9999), ...
+- Fernando Aguilar Gómez [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0001-9462-4831)
 
 ## Contact information
 
-- how to reach out to training organizers
+- E-mail. f.a[at]csic.es
 
 ## License
 
