@@ -37,7 +37,7 @@ hide:
 
 {!RELEASE_NOTES.md!}
 
-# Type (Course/Workshop/Webinar)
+# Workshop
 
 ## Date/Time: 29.10.2024 13:15 -- 17:15
 
