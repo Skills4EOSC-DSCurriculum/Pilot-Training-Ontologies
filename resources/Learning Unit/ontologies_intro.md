@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Ongologies"
+title: "Ontologies"
 author: "Fernando Aguilar Gómez"
 tags: 
     - FAIR-by-Design Learning Materials
