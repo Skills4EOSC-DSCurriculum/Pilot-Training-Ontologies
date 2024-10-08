@@ -24,9 +24,6 @@ Discover SPARQL language under a Python environment to make some queries
 ### Total duration
 - 90 minutes
 
-### Number of attendees
-- 30-40
-
 ### Learning objectives
 - Basics on SPARQL
 - Practice with some queries

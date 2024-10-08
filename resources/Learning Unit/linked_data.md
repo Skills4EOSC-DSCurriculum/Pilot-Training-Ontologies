@@ -24,9 +24,6 @@ Provide an overview of Linked Data and semantic web
 ### Total duration
 - 60 minutes
 
-### Number of attendees
-- 30-40
-
 ### Learning objectives
 - Understand how the ontologies are the base for the semantic web and linked data
 - Learn about which technologies supports linked data: Semantic web stack

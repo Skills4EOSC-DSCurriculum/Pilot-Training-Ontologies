@@ -26,9 +26,6 @@ Discover the main techonologies and tools that implement the different concepts
 ### Total duration
 - 60 minutes
 
-### Number of attendees
-- 30-40
-
 ### Learning objectives
 - Understand what is an ontology and its basic concepts
 - Discover how it can be applied to RDM
