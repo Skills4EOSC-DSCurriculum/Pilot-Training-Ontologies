@@ -24,7 +24,7 @@ Discover the main techonologies and tools that implement the different concepts
 - Projector and Internet connection required to show examples
 
 ### Total duration
-- 60 minutes
+- 75 minutes
 
 ### Learning objectives
 - Understand what is an ontology and its basic concepts

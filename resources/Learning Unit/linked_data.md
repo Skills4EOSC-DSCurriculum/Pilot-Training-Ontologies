@@ -22,7 +22,7 @@ Provide an overview of Linked Data and semantic web
 - Projector and Internet connection required to show examples
 
 ### Total duration
-- 60 minutes
+- 45 minutes
 
 ### Learning objectives
 - Understand how the ontologies are the base for the semantic web and linked data
