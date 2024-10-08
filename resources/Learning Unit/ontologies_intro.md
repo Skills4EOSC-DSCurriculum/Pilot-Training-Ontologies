@@ -46,21 +46,3 @@ Discover the main techonologies and tools that implement the different concepts
 | 10 mins  | Ontology modelling     | Reuse, technical implementation                                        | Presentation             | Slides + Protegè           |
 | 3 mins   | Summary                | key takeaways                                                          | Presentation             | Slides                     |
 
-
-
-### Assessment
-- what, how, when
-- is it going to be formative (throughout) or summative (in the end)
-- results how and when
-
-### Certificate or Badge
-- micro-credentials for the unit
-- if certificate or badge is issued then explain how it can be gained
-
-### Reflection
-- how did it go
-- highlights: what went great
-- improvement points: what went wrong
-
-### Comments
-- any additional comments from external parties acting as co-creators
