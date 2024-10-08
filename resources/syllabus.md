@@ -33,7 +33,7 @@ hide:
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Introduction to ontologies
+# Essential information
 
 {!RELEASE_NOTES.md!}
 
