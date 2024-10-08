@@ -33,7 +33,7 @@ hide:
 
 ![Header with Skills4EOSC funding information](./attachments/header.png)
 
-# Essential information
+# Essential Information
 
 {!RELEASE_NOTES.md!}
 
