@@ -15,7 +15,7 @@
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-8.5.7">
     
   
-    <meta name="title" content="Linked Data and Semantic Web"/>
+    <meta name="title" content="Hands-on Linked Data"/>
   
   
     <meta name="tags" content="['FAIR-by-Design Learning Materials', 'FAIR Learning Objects', 'FAIR Learning Unit Lesson Plan Template', 'Ontologies', 'RDF', 'Semantic web', 'Linked Data']"/>
@@ -23,7 +23,7 @@
 
     
       
-        <title>Linked Data and Semantic Web - Introduction to ontologies</title>
+        <title>Hands-on Linked Data - Introduction to ontologies</title>
       
     
     
@@ -78,7 +78,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#introduction-to-linked-data" class="md-skip">
+        <a href="#linked-data-hands-on" class="md-skip">
           Skip to content
         </a>
       
@@ -114,7 +114,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Linked Data and Semantic Web
+              Hands-on Linked Data
             
           </span>
         </div>
@@ -242,6 +242,34 @@
               
   
   
+  
+    <li class="md-nav__item">
+      <a href="../01_ontologies_intro/" class="md-nav__link">
+        Ontologies
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../02_linked_data/" class="md-nav__link">
+        Linked Data and Semantic Web
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
     
   
   
@@ -254,12 +282,12 @@
       
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
-          Linked Data and Semantic Web
+          Hands-on Linked Data
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
-        Linked Data and Semantic Web
+        Hands-on Linked Data
       </a>
       
         
@@ -322,34 +350,6 @@
   
 </nav>
       
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../linked_data_hands_on/" class="md-nav__link">
-        Hands-on Linked Data
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../ontologies_intro/" class="md-nav__link">
-        Ontologies
-      </a>
     </li>
   
 
@@ -485,9 +485,9 @@
 
 
 
-<h1 id="introduction-to-linked-data">Introduction to Linked Data</h1>
+<h1 id="linked-data-hands-on">Linked Data Hands-on</h1>
 <h2 id="goals">Goals</h2>
-<p>Provide an overview of Linked Data and semantic web</p>
+<p>Discover SPARQL language under a Python environment to make some queries</p>
 <h3 id="location">Location</h3>
 <ul>
 <li>Hybrid with special support to on-site students</li>
@@ -495,15 +495,13 @@
 </ul>
 <h3 id="total-duration">Total duration</h3>
 <ul>
-<li>45 minutes</li>
+<li>90 minutes</li>
 </ul>
 <h3 id="learning-objectives">Learning objectives</h3>
 <ul>
-<li>Understand how the ontologies are the base for the semantic web and linked data</li>
-<li>Learn about which technologies supports linked data: Semantic web stack</li>
-<li>Discover useful tools and potential applications</li>
-<li>Getting started with SPARQL as query language. Illustrative SPARQL endpoints</li>
-<li>Understand with examples the use of semantic web to support Research Data Management</li>
+<li>Basics on SPARQL</li>
+<li>Practice with some queries</li>
+<li>Display some results to check the benefits</li>
 </ul>
 <h3 id="plan">Plan</h3>
 <table>
@@ -518,46 +516,32 @@
 </thead>
 <tbody>
 <tr>
-<td>5 mins</td>
-<td>Introduction - concepts</td>
-<td>- Previous and known concepts</td>
-<td>Presentation</td>
-<td>Slides</td>
-</tr>
-<tr>
-<td>10 mins</td>
-<td>WWW history</td>
-<td>- focus attention - provide framework</td>
-<td>Presentation</td>
-<td>Slides</td>
-</tr>
-<tr>
-<td>15 mins</td>
-<td>Technology and benefits</td>
-<td>information + examples</td>
-<td>Presentation</td>
-<td>Slides</td>
-</tr>
-<tr>
-<td>10 mins</td>
-<td>Added value</td>
+<td>20 mins</td>
+<td>Basic Queries</td>
 <td></td>
-<td>Presentation</td>
-<td>Slides</td>
+<td>Guided</td>
+<td>Jupyter, SPARQL endpoint</td>
 </tr>
 <tr>
-<td>10 mins</td>
-<td>Applications &amp; Future</td>
+<td>20 mins</td>
+<td>Level II Queries</td>
 <td></td>
-<td>Presentation</td>
-<td>Slides</td>
+<td>Guided</td>
+<td>Jupyter, SPARQL endpoint</td>
 </tr>
 <tr>
-<td>10 mins</td>
-<td>SPARQL basics</td>
+<td>20 mins</td>
+<td>Display results</td>
 <td></td>
-<td>Presentation</td>
-<td>Slides</td>
+<td>Guided</td>
+<td>Jupyter, SPARQL endpoint</td>
+</tr>
+<tr>
+<td>30 mins</td>
+<td>Self-practicing</td>
+<td>Proposal of some questions to be solved</td>
+<td>exercise or activity</td>
+<td>Jupyter, SPARQL endpoint</td>
 </tr>
 </tbody>
 </table>
@@ -582,8 +566,8 @@
   <nav class="md-footer__inner md-grid" aria-label="" >
     
     
-    <a href="../.." class="md-footer__link md-footer__link--prev"
-      aria-label="Previous: Introduction to ontologies" rel="prev">
+    <a href="../02_linked_data/" class="md-footer__link md-footer__link--prev"
+      aria-label="Previous: Linked Data and Semantic Web" rel="prev">
       <div class="md-footer__button md-icon">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
       </div>
@@ -592,27 +576,11 @@
           Previous
         </span>
         <div class="md-ellipsis">
-          Introduction to ontologies
+          Linked Data and Semantic Web
         </div>
       </div>
     </a>
     
-    
-    
-    <a href="../linked_data_hands_on/" class="md-footer__link md-footer__link--next"
-      aria-label="Next: Hands-on Linked Data" rel="next">
-      <div class="md-footer__title">
-        <span class="md-footer__direction">
-          Next
-        </span>
-        <div class="md-ellipsis">
-          Hands-on Linked Data
-        </div>
-      </div>
-      <div class="md-footer__button md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
-      </div>
-    </a>
     
   </nav>
   
