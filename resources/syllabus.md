@@ -39,20 +39,19 @@ hide:
 
 # Type (Course/Workshop/Webinar)
 
-## Date/Time: when it will be offered
-
-- put available from date if it is self-paced
+## Date/Time: 29.10.2024 13:15 -- 17:15
 
 ## Location
 
-- where it will be available
-- physical location
-- URL link to resources (and virtual room if online) should lead to the learning Skills4EOSC platform
+- KIT Campus North, Building 303 (Library), Oberer Seminarraum
+- Online platform will be announced later
+- [Course on Skills4EOSC learning platform](https://learning.skills4eosc.eu/mod/forum/view.php?id=677) (will be made available at the start of workshop)
 
 ## Training Description
 
-- what is the main goal/purpose of this training
-- short training description
+In this workshop, we will learn what an ontology is and how it is used to model knowledge.
+We will establish some links to its use within a data management context, and we will explore the possibilities of making queries within the semantic web using linked data.
+The workshop will include hands-on exercises using SPARQL.
 
 ## Target audience: Everyone interested in research data management (such as knowledge graphs, linked data, or related areas)
 
@@ -62,13 +61,11 @@ hide:
 
 ## Access Cost: N
 
-## Prerequisites
-
-- if any
+## Prerequisites: None
 
 ## Duration
 
-- total training duration
+- 4 hours (including breaks)
 
 ## Training objectives
 
@@ -76,32 +73,29 @@ hide:
 
 ## Keywords
 
-Keywords or tags used to describe the training.
+ontologies, linked data, knowledge graph, RDM
 
 ## Agenda: Training Schedule - Training Structure
 
-| Date/Time | Topic             |
-|-----------|-------------------|
-| timeslot  | training unit 1   |
-| timeslot  | training unit 2   |
-| timeslot  | coffee break      |
-| timeslot  | training unit 3   |
-| timeslot  | lunch break       |
-| timelsot  | training unit 4   |
-| timeslot  | training unit 5   |
+| Time      | Topic                        |
+|-----------|------------------------------|
+| 13:15     | Ontologies                   |
+| 14:30     | Linked Data and Semantic Web |
+| 15:15     | coffee break                 |
+| 15:45     | Hands-on Linked Data/SPARQL  |
+| 17:15     | End                          |
 
 ## Resources and Materials
 
-- location of available resources for the training
+- tbd
 
 ## Certification Information
 
-- if any
+- tbd
 
 ## Author(s)
 
-- List of people involved in preparing the training
-- format: Name Surname, comma separated
+- Fernando Aguilar Gómez
 
 # Trainer(s)
 
