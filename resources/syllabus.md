@@ -1,6 +1,6 @@
 ---
 # RDA learning materials metadata minimal set
-title: "Introduction to ontologies"
+title: "Essential Information"
 author: 
     - Fernando Aguilar Gómez
 tags: 
