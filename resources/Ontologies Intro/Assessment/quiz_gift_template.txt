@@ -1,0 +1,23 @@
+// Multiple choice with multiple right answers
+What is an ontology? {
+   ~%-100%A table with information about pets and cities
+   ~%100%Formal representation of a concept or entity. Types, properties, and relationships
+   ~%-100%A complete network of circles and arrows
+   ~%-100%A big data base on the Internet
+}
+
+// Multiple choice with multiple right answers
+What is refer as a triple in the context of ontologies? {
+   ~%100%Subject - Predicate - Object
+   ~%-100%Subject - Verb - Object
+   ~%-100%Class - Instance - Relationshio
+   ~%-100%Pet - Owner - City
+}
+
+
+// True-False
+::TrueStatement about Ontologies::I can create my own ontology from scratch or reusing other ontologies{T}
+
+// Missing word
+Moodle costs {~lots of money =nothing ~a small amount} to download from moodle.org.
+An {~class =instance ~insurance} is a specific, concrete entity that belongs to a class in an ontology.

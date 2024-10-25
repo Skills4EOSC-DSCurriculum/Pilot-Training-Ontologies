@@ -1,0 +1,19 @@
+// Multiple choice with multiple right answers
+Which of those components is essential for Linked Data? {
+   ~%-100%Forest
+   ~%50%URI
+   ~%50%RDF
+   ~%-100%HTML
+}
+
+// True-False
+::TrueStatement SPARQL::The basic SPARQL query includes PREFIX, SELECT and WHERE{T}
+
+// Matching
+Match the following number of stars with its correspondent development in Open Data {
+   =★      -> Publish your data on the Web (in any format) and under an open license
+   =★★     -> Publish as structured data (e.g. Excel instead of a scanned table image)
+   =★★★    -> Use non-proprietary formats (e.g. CSV instead of Excel)
+   =★★★★   -> Use URIs to denote things, so people can point to them
+   =★★★★★  -> Link your data to other data to provide context
+   }

@@ -9,9 +9,9 @@ tags:
     - knowledge graph
     - RDM
 
-abstract: "A brief synopsis about or description of the learning resource."
+abstract: "Introduction to Ontologies as knowledge representation system and base of semantic web and linked data. The training includes hands on SPARQL"
 primaryLanguage: "en"
-versionDate: "YYYY-MM-DD Version date for the most recently published or broadcast resource."
+versionDate: "2024-10-29"
 license: "https://creativecommons.org/licenses/by-sa/4.0/deed.en"
 urlToResource: "https://doi.org/10.5072/zenodo.1234567"
 resourceURLType: "URL"
