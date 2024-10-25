@@ -48,7 +48,7 @@ citation:
       orcid: https://orcid.org/0000-0001-9462-4831
       affiliation: Instituto de Física de Cantabria
   title: "Introduction to ontologies"
-  abstract: "Introduction to Ontologies as knowledge representation system and base of semantic web and linked data. The training includes hands on SPARQL"
+  abstract: "Introduction to Ontologies as knowledge representation system and base of semantic web and linked data. The training includes hands on SPARQL."
   version: v1.0
   doi: 10.5070/zenodo.123
   date-released: "2024"
