@@ -4,70 +4,33 @@
   <head>
     
   
-  
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
       
       
-        <meta name="author" content="['Fernando Aguilar Gómez']">
+        <meta name="author" content="Fernando Aguilar Gómez">
       
       
-      <link rel="icon" href="assets/images/favicon.png">
+      <link rel="icon" href="../../assets/images/favicon.png">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-8.5.7">
     
   
-    <meta name="title" content="Essential Information"/>
+    <meta name="title" content="Ontologies"/>
   
   
-    <meta name="tags" content="['ontologies', 'linked data', 'knowledge graph', 'RDM']"/>
+    <meta name="tags" content="['FAIR-by-Design Learning Materials', 'FAIR Learning Objects', 'FAIR Learning Unit Lesson Plan Template', 'Ontologies', 'RDF', 'Semantic web', 'Linked Data']"/>
   
-
-  
-    <meta name="abstract" content="Introduction to Ontologies as knowledge representation system and base of semantic web and linked data. The training includes hands on SPARQL"/>
-  
-  
-    <meta name="primaryLanguage" content="en"/>
-  
-  
-    <meta name="license" content="https://creativecommons.org/licenses/by-sa/4.0/deed.en"/>
-  
-  
-    <meta name="versionDate" content="2024-10-29"/>
-  
-  
-    <meta name="abstract" content="https://doi.org/10.5072/zenodo.1234567"/>
-  
-  
-    <meta name="resourceURLType" content="URL"/>
-  
-  
-    <meta name="targetGroup" content="Everyone interested in Research Data Management (such as knowledge graphs, linked data, or related areas)"/>
-  
-  
-    <meta name="learningResourceType" content="The predominant type or kind that characterizes the learning resource."/>
-  
-  
-    <meta name="learningOutcome" content="['Descriptions of what knowledge,', 'skills or', 'abilities', 'students should acquire on completion of the resource.']"/>
-  
-  
-    <meta name="accessCost" content="N"/>
-  
-  
-    <meta name="expertiseLevel" content="beginner"/>
-  
-
-  <link rel="linkset" type="application/json+linkset" href="https://raw.githubusercontent.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/main/linkset.json" >
 
     
       
-        <title>Essential Information - Introduction to ontologies</title>
+        <title>Ontologies - Introduction to ontologies</title>
       
     
     
-      <link rel="stylesheet" href="assets/stylesheets/main.20d9efc8.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.20d9efc8.min.css">
       
         
-        <link rel="stylesheet" href="assets/stylesheets/palette.cbb835fc.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.cbb835fc.min.css">
         
           
           
@@ -88,9 +51,9 @@
       
     
     
-      <link rel="stylesheet" href="stylesheets/extra.css">
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
     
-    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
@@ -115,7 +78,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#essential-information" class="md-skip">
+        <a href="#introduction-to-ontologies" class="md-skip">
           Skip to content
         </a>
       
@@ -133,9 +96,9 @@
 
 <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href="." title="Introduction to ontologies" class="md-header__button md-logo" aria-label="Introduction to ontologies" data-md-component="logo">
+    <a href="../.." title="Introduction to ontologies" class="md-header__button md-logo" aria-label="Introduction to ontologies" data-md-component="logo">
       
-  <img src="attachments/logo-white.png" alt="logo">
+  <img src="../../attachments/logo-white.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -151,7 +114,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Essential Information
+              Ontologies
             
           </span>
         </div>
@@ -212,8 +175,6 @@
           
             
               
-                
-              
               <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
@@ -222,9 +183,9 @@
 
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href="." title="Introduction to ontologies" class="md-nav__button md-logo" aria-label="Introduction to ontologies" data-md-component="logo">
+    <a href="../.." title="Introduction to ontologies" class="md-nav__button md-logo" aria-label="Introduction to ontologies" data-md-component="logo">
       
-  <img src="attachments/logo-white.png" alt="logo">
+  <img src="../../attachments/logo-white.png" alt="logo">
 
     </a>
     Introduction to ontologies
@@ -238,52 +199,11 @@
 
   
   
-    
   
-  
-    <li class="md-nav__item md-nav__item--active">
-      
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-      
-      
-        
-      
-      
-        <label class="md-nav__link md-nav__link--active" for="__toc">
-          Essential Information
-          <span class="md-nav__icon md-icon"></span>
-        </label>
-      
-      <a href="." class="md-nav__link md-nav__link--active">
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
         Essential Information
       </a>
-      
-        
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#100-2024-01-01" class="md-nav__link">
-    1.0.0 (2024-01-01)
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-      
     </li>
   
 
@@ -296,7 +216,7 @@
   
   
     <li class="md-nav__item">
-      <a href="01_ontologies_intro/" class="md-nav__link">
+      <a href="../../01_ontologies_intro/" class="md-nav__link">
         Ontologies
       </a>
     </li>
@@ -311,7 +231,7 @@
   
   
     <li class="md-nav__item">
-      <a href="02_linked_data/" class="md-nav__link">
+      <a href="../../02_linked_data/" class="md-nav__link">
         Linked Data and Semantic Web
       </a>
     </li>
@@ -326,7 +246,7 @@
   
   
     <li class="md-nav__item">
-      <a href="03_linked_data_hands_on/" class="md-nav__link">
+      <a href="../../03_linked_data_hands_on/" class="md-nav__link">
         Hands-on Linked Data
       </a>
     </li>
@@ -367,7 +287,7 @@
   
   
     <li class="md-nav__item">
-      <a href="Linked%20Data/02_linked_data/" class="md-nav__link">
+      <a href="../../Linked%20Data/02_linked_data/" class="md-nav__link">
         Linked Data and Semantic Web
       </a>
     </li>
@@ -387,12 +307,14 @@
 
   
   
+    
+  
   
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" checked>
       
       
       
@@ -413,11 +335,86 @@
               
   
   
+    
   
-    <li class="md-nav__item">
-      <a href="Ontologies%20Intro/01_ontologies_intro/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Ontologies
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         Ontologies
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#goals" class="md-nav__link">
+    Goals
+  </a>
+  
+    <nav class="md-nav" aria-label="Goals">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#location" class="md-nav__link">
+    Location
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#total-duration" class="md-nav__link">
+    Total duration
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#learning-objectives" class="md-nav__link">
+    Learning objectives
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#plan" class="md-nav__link">
+    Plan
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
     </li>
   
 
@@ -437,9 +434,7 @@
             
             
               
-                
-              
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -458,9 +453,43 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#100-2024-01-01" class="md-nav__link">
-    1.0.0 (2024-01-01)
+  <a href="#goals" class="md-nav__link">
+    Goals
   </a>
+  
+    <nav class="md-nav" aria-label="Goals">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#location" class="md-nav__link">
+    Location
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#total-duration" class="md-nav__link">
+    Total duration
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#learning-objectives" class="md-nav__link">
+    Learning objectives
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#plan" class="md-nav__link">
+    Plan
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -478,29 +507,42 @@
                 
                   
   
-  
-
 
   <nav class="md-tags" >
     
       
       
-        <span class="md-tag">ontologies</span>
+        <span class="md-tag">FAIR-by-Design Learning Materials</span>
       
     
       
       
-        <span class="md-tag">linked data</span>
+        <span class="md-tag">FAIR Learning Objects</span>
       
     
       
       
-        <span class="md-tag">knowledge graph</span>
+        <span class="md-tag">FAIR Learning Unit Lesson Plan Template</span>
       
     
       
       
-        <span class="md-tag">RDM</span>
+        <span class="md-tag">Ontologies</span>
+      
+    
+      
+      
+        <span class="md-tag">RDF</span>
+      
+    
+      
+      
+        <span class="md-tag">Semantic web</span>
+      
+    
+      
+      
+        <span class="md-tag">Linked Data</span>
       
     
   </nav>
@@ -508,108 +550,92 @@
 
 
 
-<p><img alt="Header with Skills4EOSC funding information" src="attachments/header.png" /></p>
-<h1 id="essential-information">Essential Information</h1>
-<details>
-<summary>Release Notes</summary>
-<h2 id="100-2024-01-01">1.0.0 (2024-01-01)</h2>
+<h1 id="introduction-to-ontologies">Introduction to Ontologies</h1>
+<h2 id="goals">Goals</h2>
+<p>Understand what is an ontology within the computing science context and how it be connected with Research Data Management
+Learn the basic concepts around ontologies
+Discover the main techonologies and tools that implement the different concepts</p>
+<h3 id="location">Location</h3>
 <ul>
-<li>Copy and paste similar sections at the top of the document as new versions are released.</li>
-<li>All sections need to be within the <code>&lt;details&gt;</code> tags.</li>
-<li>Alter the date in the brackets to reflect the actual date when the release has been made.</li>
+<li>Hybrid with special support to on-site students</li>
+<li>Projector and Internet connection required to show examples</li>
 </ul>
-</details>
-<h1 id="workshop">Workshop</h1>
-<h2 id="datetime-29102024-1315-1715">Date/Time: 29.10.2024 13:15 -- 17:15</h2>
-<h2 id="location">Location</h2>
+<h3 id="total-duration">Total duration</h3>
 <ul>
-<li>KIT Campus North, Building 303 (Library), Oberer Seminarraum</li>
-<li>Online platform will be announced later</li>
-<li><a href="https://learning.skills4eosc.eu/mod/forum/view.php?id=677">Course on Skills4EOSC learning platform</a> (will be made available at the start of workshop)</li>
+<li>75 minutes</li>
 </ul>
-<h2 id="training-description">Training Description</h2>
-<p>In this workshop, we will learn what an ontology is and how it is used to model knowledge.
-We will establish some links to its use within a data management context, and we will explore the possibilities of making queries within the semantic web using linked data.
-The workshop will include hands-on exercises using SPARQL.</p>
-<h2 id="target-audience-everyone-interested-in-research-data-management-such-as-knowledge-graphs-linked-data-or-related-areas">Target audience: Everyone interested in research data management (such as knowledge graphs, linked data, or related areas)</h2>
-<h2 id="expertise-level-skill-level-beginner">Expertise Level / Skill Level: Beginner</h2>
-<h2 id="primary-language-english">Primary Language: English</h2>
-<h2 id="access-cost-n">Access Cost: N</h2>
-<h2 id="prerequisites-none">Prerequisites: None</h2>
-<h2 id="duration">Duration</h2>
+<h3 id="learning-objectives">Learning objectives</h3>
 <ul>
-<li>4 hours (including breaks)</li>
+<li>Understand what is an ontology and its basic concepts</li>
+<li>Discover how it can be applied to RDM</li>
+<li>Knowing the technologies and tools related to ontologies</li>
+<li>Basics of semantic web</li>
 </ul>
-<h2 id="training-objectives">Training objectives</h2>
-<ul>
-<li>list of specific training objectives</li>
-</ul>
-<h2 id="keywords">Keywords</h2>
-<p>ontologies, linked data, knowledge graph, RDM</p>
-<h2 id="agenda-training-schedule-training-structure">Agenda: Training Schedule - Training Structure</h2>
+<h3 id="plan">Plan</h3>
 <table>
 <thead>
 <tr>
-<th>Time</th>
+<th>Duration</th>
 <th>Topic</th>
+<th>Key points/Teaching Method/Questions</th>
+<th>Activities</th>
+<th>Resources</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>13:15</td>
-<td>Ontologies</td>
+<td>5 mins</td>
+<td>Welcome</td>
+<td>- housekeeping  - introduce trainer and trainees - learning objectives</td>
+<td>Presentation</td>
+<td>Slides</td>
 </tr>
 <tr>
-<td>14:30</td>
-<td>Linked Data and Semantic Web</td>
+<td>10 mins</td>
+<td>Introduction</td>
+<td>- what is an ontology - ontologies in RDM</td>
+<td>questions, expectations</td>
+<td>Slides</td>
 </tr>
 <tr>
-<td>15:15</td>
-<td>coffee break</td>
+<td>10 mins</td>
+<td>Key Concepts + Benefits</td>
+<td>Class, instance, properties, relationships. Benefits</td>
+<td>Presentation</td>
+<td>Slides</td>
 </tr>
 <tr>
-<td>15:45</td>
-<td>Hands-on Linked Data/SPARQL</td>
+<td>7 mins</td>
+<td>Differences w CV, Tax..</td>
+<td>Ontology, taxonomy, thesaurus, controlled vocabulary</td>
+<td>Presentation</td>
+<td>Slides</td>
 </tr>
 <tr>
-<td>17:15</td>
-<td>End</td>
+<td>15 mins</td>
+<td>Examples of ontologies</td>
+<td>FoaF, SKOS, Dublin Core...</td>
+<td>Presentation</td>
+<td>Slides + web browser</td>
+</tr>
+<tr>
+<td>10 mins</td>
+<td>Ontology modelling</td>
+<td>Reuse, technical implementation</td>
+<td>Presentation</td>
+<td>Slides + Protegè</td>
+</tr>
+<tr>
+<td>3 mins</td>
+<td>Summary</td>
+<td>key takeaways</td>
+<td>Presentation</td>
+<td>Slides</td>
 </tr>
 </tbody>
 </table>
-<h2 id="resources-and-materials">Resources and Materials</h2>
-<ul>
-<li>tbd</li>
-</ul>
-<h2 id="certification-information">Certification Information</h2>
-<ul>
-<li>tbd</li>
-</ul>
-<h2 id="authors">Author(s)</h2>
-<ul>
-<li>Fernando Aguilar Gómez</li>
-</ul>
-<h1 id="trainers">Trainer(s)</h1>
-<ul>
-<li>Fernando Aguilar Gómez <a href="https://orcid.org/0000-0001-9462-4831"><img alt="ORCID logo" src="attachments/orcid_16x16.webp" /></a></li>
-</ul>
-<h2 id="contact-information">Contact information</h2>
-<ul>
-<li>E-mail. f.a[at]csic.es</li>
-</ul>
-<h2 id="license">License</h2>
-<p><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-Sharealike 4.0 International License</a>.</p>
-<h2 id="doi">DOI</h2>
-<p><a href="https://doi.org/10.5072/zenodo.1234567">https://doi.org/10.5072/zenodo.1234567</a></p>
-<h2 id="accessibility-mission">Accessibility Mission</h2>
-<p>Skills4EOSC is dedicated to ensuring that all produced learning materials are accessible to as many visitors as possible regardless of their ability or technology. We have an active commitment to increasing our learning materials accessibility. The main standards that we aim to comply with are WCAG v.2.1 Level AA criteria and PDF/UA (ISO 14289).</p>
-<h3 id="acknowledgement">Acknowledgement</h3>
-<p>These learning materials have been developed by following the <a href="https://doi.org/10.5281/zenodo.7875540">FAIR-by-Design Methodology</a>.</p>
-<p><img alt="Skills4EOSC logo" src="attachments/skills4eosc.png" /></p>
 
 
-
-  
 
 
 
@@ -626,26 +652,24 @@ The workshop will include hands-on exercises using SPARQL.</p>
   
   
   
-  
-  
   <nav class="md-footer__inner md-grid" aria-label="" >
     
     
-    
-    <a href="01_ontologies_intro/" class="md-footer__link md-footer__link--next"
-      aria-label="Next: Ontologies" rel="next">
+    <a href="../../Linked%20Data/02_linked_data/" class="md-footer__link md-footer__link--prev"
+      aria-label="Previous: Linked Data and Semantic Web" rel="prev">
+      <div class="md-footer__button md-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </div>
       <div class="md-footer__title">
         <span class="md-footer__direction">
-          Next
+          Previous
         </span>
         <div class="md-ellipsis">
-          Ontologies
+          Linked Data and Semantic Web
         </div>
       </div>
-      <div class="md-footer__button md-icon">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
-      </div>
     </a>
+    
     
   </nav>
   
@@ -705,10 +729,10 @@ The workshop will include hands-on exercises using SPARQL.</p>
       <div class="md-dialog__inner md-typeset"></div>
     </div>
     
-    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.footer", "search.highlight", "search.suggest"], "search": "assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": {"provider": "mike"}}</script>
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.footer", "search.highlight", "search.suggest"], "search": "../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}, "version": {"provider": "mike"}}</script>
     
     
-      <script src="assets/javascripts/bundle.8492ddcf.min.js"></script>
+      <script src="../../assets/javascripts/bundle.8492ddcf.min.js"></script>
       
     
   </body>
