@@ -46,4 +46,4 @@ Discover the main techonologies and tools that implement the different concepts
 
 ## Related sources
 
-- [Slides](https://github.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/blob/main/resources/01%20Ontologies%20Intro/Skills4EOSC-IntroductionToOntologies.pptx)
+- [Slides](https://raw.githubusercontent.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/main/resources/01%20Ontologies%20Intro/Skills4EOSC-IntroductionToOntologies.pptx)

@@ -44,4 +44,4 @@ Provide an overview of Linked Data and semantic web
 
 ## Related sources
 
-- [Slides](https://github.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/blob/main/resources/02%20Linked%20Data/Skills4EOSC-Linked-Data_2023_05.pptx)
+- [Slides](https://raw.githubusercontent.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/main/resources/02%20Linked%20Data/Skills4EOSC-Linked-Data_2023_05.pptx)
