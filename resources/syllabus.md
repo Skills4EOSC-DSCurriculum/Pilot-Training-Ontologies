@@ -18,10 +18,15 @@ resourceURLType: "URL"
 targetGroup: "Everyone interested in Research Data Management (such as knowledge graphs, linked data, or related areas)"
 learningResourceType: "The predominant type or kind that characterizes the learning resource."
 learningOutcome: 
-    - Descriptions of what knowledge, 
-    - skills or 
-    - abilities 
-    - students should acquire on completion of the resource.
+    - Understand what is an ontology and its basic concepts
+    - Discover how it can be applied to RDM
+    - Knowing the technologies and tools related to ontologies
+    - Basics of semantic web
+    - Understand how the ontologies are the base for the semantic web and linked data
+    - Learn about which technologies supports linked data. Semantic web stack
+    - Discover useful tools and potential applications
+    - Getting started with SPARQL as query language. Illustrative SPARQL endpoints
+    - Understand with examples the use of semantic web to support Research Data Management
 accessCost: "N"
 expertiseLevel: "beginner"
 # template is a reserved keyword related to publishing of the Git book itself and not part of the RDA metadata schema. Please leave it as is and don't edit it manually
@@ -53,13 +58,17 @@ In this workshop, we will learn what an ontology is and how it is used to model 
 We will establish some links to its use within a data management context, and we will explore the possibilities of making queries within the semantic web using linked data.
 The workshop will include hands-on exercises using SPARQL.
 
-## Target audience: Everyone interested in research data management (such as knowledge graphs, linked data, or related areas)
+## Target audience
+Everyone interested in research data management (such as knowledge graphs, linked data, or related areas)
 
-## Expertise Level / Skill Level: Beginner
+## Expertise Level / Skill Level
+Beginner
 
-## Primary Language: English
+## Primary Language
+English
 
-## Access Cost: N
+## Access Cost
+N
 
 ## Prerequisites: None
 
@@ -69,7 +78,15 @@ The workshop will include hands-on exercises using SPARQL.
 
 ## Training objectives
 
-- list of specific training objectives
+- Understand what is an ontology and its basic concepts
+- Discover how it can be applied to RDM
+- Knowing the technologies and tools related to ontologies
+- Basics of semantic web
+- Understand how the ontologies are the base for the semantic web and linked data
+- Learn about which technologies supports linked data. Semantic web stack
+- Discover useful tools and potential applications
+- Getting started with SPARQL as query language. Illustrative SPARQL endpoints
+- Understand with examples the use of semantic web to support Research Data Management
 
 ## Keywords
 
@@ -80,22 +97,39 @@ ontologies, linked data, knowledge graph, RDM
 | Time      | Topic                        |
 |-----------|------------------------------|
 | 13:15     | Ontologies                   |
-| 14:30     | Linked Data and Semantic Web |
-| 15:15     | coffee break                 |
-| 15:45     | Hands-on Linked Data/SPARQL  |
+| 14:45     | Coffe break |
+| 15:15     | Linked Data and Semantic Web |
+| 16:15     | Hands-on Linked Data/SPARQL  |
 | 17:15     | End                          |
 
 ## Resources and Materials
 
-- tbd
+All training resources will be available on the FAIR-by-Design methodology course on the learning platform. You will need to self-enrol in the course to gain access to the materials. Additional equipment and software needed to take full advantage of the training activities:
 
-## Certification Information
+- Headset with microphone
+- GitHub account: [GitHub SignUp](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+- Zenodo account: [Zenodo SignUp](https://zenodo.org/signup/)
+- Installed Git client: [Git Editor](https://desktop.github.com/)
+- Installed MD editor: [Obsidian](https://obsidian.md/)
+    - or you can also use an online demo version such as [https://demo.hedgedoc.org/](https://demo.hedgedoc.org/) (for testing purposes only)
 
-- tbd
+## Certification Information (Digital Open Badges and Microcredentials)
+
+The trainees that will pass the completion criteria for each separate stage of the FAIR-by-Design methodology will be awarded with corresponding open digital badges. All trainees that will successfully complete all activities available on the course on the learning platform will be able to obtain the higher level “FAIR Instructor” open digital badge. 
+
+| Badge | Name | Criteria |
+|---|---|---|
+| ![FAIR Instructor](./attachments/FAIR_instructor_badge.png){: style="width:350px;"} | FAIR Instructor | Complete the full course FAIR-by-Design Learning Materials Methodology with minimum grade of 80% |
+| ![Prepare](./attachments/01-PrepareBadge.png){: style="width:350px;"} | FAIR-by-Design Instructor - Prepare | Complete ALL of: Webinar recording, Stage 01 - Prepare Materials including Assessments |
+| ![Discover](./attachments/02-DiscoverBadge.png){: style="width:350px;"} | FAIR-by-Design Instructor - Discover | Complete ALL of: Webinar recording, Stage 02 - Discover Materials including Assessments |
+| ![Design](./attachments/03-DesignBadge.png){: style="width:350px;"} | FAIR-by-Design Instructor - Design | Complete ALL of: Webinar recording, Stage 03 - Design Materials including Assessments |
+| ![Produce](./attachments/04-ProduceBadge.png){: style="width:350px;"} | FAIR-by-Design Instructor - Produce | Complete ALL of: Webinar recording, Stage 04 - Produce Materials including Assessments |
+| ![Publish](./attachments/05-PublishBadge.png){: style="width:350px;"} | FAIR-by-Design Instructor - Publish | Complete ALL of: Webinar recording, Stage 05 - Publish Materials including Assessments |
+| ![Verify](./attachments/06-VerifyBadge.png){: style="width:350px;"} | FAIR-by-Design Instructor - Verify + CI | Complete ALL of: Webinar recording, Stage 06 - Verify & CI Materials including Assessments |
 
 ## Author(s)
 
-- Fernando Aguilar Gómez
+- Fernando Aguilar Gómez [![ORCID logo](./attachments/orcid_16x16.webp)](https://orcid.org/0000-0001-9462-4831)
 
 # Trainer(s)
 
