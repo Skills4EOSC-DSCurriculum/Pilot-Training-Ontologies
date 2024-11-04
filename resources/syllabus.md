@@ -106,26 +106,13 @@ ontologies, linked data, knowledge graph, RDM
 
 All training resources will be available on the FAIR-by-Design methodology course on the learning platform. You will need to self-enrol in the course to gain access to the materials. Additional equipment and software needed to take full advantage of the training activities:
 
-- Headset with microphone
-- GitHub account: [GitHub SignUp](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
-- Zenodo account: [Zenodo SignUp](https://zenodo.org/signup/)
-- Installed Git client: [Git Editor](https://desktop.github.com/)
-- Installed MD editor: [Obsidian](https://obsidian.md/)
-    - or you can also use an online demo version such as [https://demo.hedgedoc.org/](https://demo.hedgedoc.org/) (for testing purposes only)
+- Laptop
+- Headset with microphone (online participants)
+- Jupyter environment (e.g. Google colab, Binder, ESOC...)
 
 ## Certification Information (Digital Open Badges and Microcredentials)
 
 The trainees that will pass the completion criteria for each separate stage of the FAIR-by-Design methodology will be awarded with corresponding open digital badges. All trainees that will successfully complete all activities available on the course on the learning platform will be able to obtain the higher level “FAIR Instructor” open digital badge. 
-
-| Badge | Name | Criteria |
-|---|---|---|
-| ![FAIR Instructor](./attachments/FAIR_instructor_badge.png){: style="width:350px;"} | FAIR Instructor | Complete the full course FAIR-by-Design Learning Materials Methodology with minimum grade of 80% |
-| ![Prepare](./attachments/01-PrepareBadge.png){: style="width:350px;"} | FAIR-by-Design Instructor - Prepare | Complete ALL of: Webinar recording, Stage 01 - Prepare Materials including Assessments |
-| ![Discover](./attachments/02-DiscoverBadge.png){: style="width:350px;"} | FAIR-by-Design Instructor - Discover | Complete ALL of: Webinar recording, Stage 02 - Discover Materials including Assessments |
-| ![Design](./attachments/03-DesignBadge.png){: style="width:350px;"} | FAIR-by-Design Instructor - Design | Complete ALL of: Webinar recording, Stage 03 - Design Materials including Assessments |
-| ![Produce](./attachments/04-ProduceBadge.png){: style="width:350px;"} | FAIR-by-Design Instructor - Produce | Complete ALL of: Webinar recording, Stage 04 - Produce Materials including Assessments |
-| ![Publish](./attachments/05-PublishBadge.png){: style="width:350px;"} | FAIR-by-Design Instructor - Publish | Complete ALL of: Webinar recording, Stage 05 - Publish Materials including Assessments |
-| ![Verify](./attachments/06-VerifyBadge.png){: style="width:350px;"} | FAIR-by-Design Instructor - Verify + CI | Complete ALL of: Webinar recording, Stage 06 - Verify & CI Materials including Assessments |
 
 ## Author(s)
 
