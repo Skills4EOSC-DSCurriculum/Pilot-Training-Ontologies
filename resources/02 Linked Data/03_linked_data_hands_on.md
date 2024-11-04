@@ -43,3 +43,4 @@ Discover SPARQL language under a Python environment to make some queries
 
 - [Slides](https://raw.githubusercontent.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/main/resources/02%20Linked%20Data/Activities/Skills4EOSC-Linked-Data_HandsOn_2023_05.pptx)
 - [Jupyter Notebook](https://github.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/blob/main/resources/02%20Linked%20Data/Activities/Ontologies_LinkedData.ipynb)
+    - Open the Jupyter Notebook [directly on Binder](https://mybinder.org/v2/gh/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/HEAD?labpath=resources%2F02+Linked+Data%2FActivities%2FOntologies_LinkedData.ipynb)
