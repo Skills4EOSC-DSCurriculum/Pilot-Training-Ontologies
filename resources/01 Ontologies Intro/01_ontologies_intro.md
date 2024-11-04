@@ -43,3 +43,7 @@ Discover the main techonologies and tools that implement the different concepts
 | 10 mins  | Ontology modelling     | Reuse, technical implementation                                        | Presentation             | Slides + Protegè           |
 | 3 mins   | Summary                | key takeaways                                                          | Presentation             | Slides                     |
 
+
+## Related sources
+
+- [Slides](https://github.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/blob/main/resources/01%20Ontologies%20Intro/Skills4EOSC-IntroductionToOntologies.pptx)

@@ -39,9 +39,7 @@ Discover SPARQL language under a Python environment to make some queries
 | 20 mins  | Display results        |                                                                        | Guided                   | Jupyter, SPARQL endpoint   |
 | 30 mins  | Self-practicing        | Proposal of some questions to be solved                                | exercise or activity     | Jupyter, SPARQL endpoint   |
 
-
-## Tips and Tricks
-
 ## Related sources
 
-## Comments
+- [Slides](https://github.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/blob/main/resources/02%20Linked%20Data/Activities/Skills4EOSC-Linked-Data_HandsOn_2023_05.pptx)
+- [Jupyter Notebook](https://github.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/blob/main/resources/02%20Linked%20Data/Activities/Ontologies_LinkedData.ipynb)

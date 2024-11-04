@@ -41,3 +41,7 @@ Provide an overview of Linked Data and semantic web
 | 10 mins  | Applications & Future  |                                                                        | Presentation             | Slides                     |
 | 10 mins  | SPARQL basics          |                                                                        | Presentation             | Slides                     |
 
+
+## Related sources
+
+- [Slides](https://github.com/Skills4EOSC-DSCurriculum/Pilot-Training-Ontologies/blob/main/resources/02%20Linked%20Data/Skills4EOSC-Linked-Data_2023_05.pptx)
